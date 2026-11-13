@@ -22,3 +22,14 @@ CampusNotes is a student-focused academic notes management project.
 ## Purpose
 This repository demonstrates collaborative development
 using GitHub forks, branches, pull requests and code reviews.
+
+## Collaboration Review
+
+This project demonstrates collaborative development
+using GitHub branches, pull requests, and code reviews.
+
+### Review Process
+- Create a separate branch for changes.
+- Submit changes through a pull request.
+- Review the proposed changes before merging.
+- Maintain project quality through collaboration.
