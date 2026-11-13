@@ -8,6 +8,12 @@ CampusNotes is a student-focused academic notes management project.
 - Store programming and mathematics notes
 - Share useful study resources
 
+## New Feature: Study Planning
+- Create weekly study schedules
+- Track completed topics
+- Identify subjects requiring revision
+- Maintain consistent study habits
+
 ## Technologies
 - Markdown
 - Git
